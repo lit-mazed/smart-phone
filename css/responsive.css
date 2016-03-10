@@ -1,0 +1,48 @@
+/* Responsive for iPad / iPad Mini..................*/
+@media only screen and (max-width: 768px) {
+    div#container{
+   		width: 680px !important;   		
+   		margin-left: 55px;
+   }
+   div #intro{
+   		width: 580px;
+   		margin-left: 55px;
+   }
+   #navi{
+   		display: none;
+   }
+   div .pika-stage img {
+   		max-width: 580px;
+   		
+   }
+   div #intro img{
+   		max-width: 100%;
+   }
+	div.pikachoose{
+		width: 580px;
+		margin-left: 55px;
+	}
+	 div #topMaincol {
+		width: 580px;
+		margin-left: 55px;
+	}
+
+	div #topRecommend li, div #footerMenu li {
+		margin-left: 55px;
+	}
+	div .pika-textnav a {
+		padding: 153px;
+	}
+	div #ending p{
+	    margin: 13px 230px;
+		font-size: 8pt;		
+	}
+	div #ending address{
+		margin-top: 20px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+
+
+}
